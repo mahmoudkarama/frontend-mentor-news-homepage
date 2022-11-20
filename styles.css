@@ -1,0 +1,157 @@
+
+
+.attribution{
+     font-size: 11px; text-align: center; 
+    }
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+span {
+    margin: 20px;
+    color:  hsl(236, 13%, 42%);
+}
+
+p{
+    font-size: 15px;
+    color:  hsl(233, 8%, 79%);
+
+}
+
+hr{
+    margin: 10px;
+}
+
+
+.container {
+    padding: 30px 100px;
+    position: relative;
+}
+
+.top-part {
+    margin-bottom: 50px;
+}
+
+.menue {
+    margin-bottom: 50px;
+}
+
+.img-menue {
+    display: inline-block;
+    margin-right: 470px;
+}
+
+.text-menue {
+    display: inline-block;
+}
+
+.left-top img {
+    width: 600px;
+    height: 300px;
+}
+
+.left-top{
+    position: relative;
+}
+
+.left-top h1 {
+    width: 200px;
+
+}
+
+.pa {
+
+    width: 350px;
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+
+.read-more {
+    position: absolute;
+    top: 380px;
+    left: 250px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #ffffff;       font-size: 15px;
+    background: #d97b34;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}      
+.read-more:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      
+}
+
+.right-top {
+    width: 300px;
+    position: absolute;
+    right: 120px;
+    top: 125px;
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    padding: 10px 20px;
+}
+
+.right-top h2 {
+    color:  hsl(5, 85%, 63%);
+}
+
+.bottom-part {
+    position: relative;
+}
+
+.bottom-part img {
+    width: 75px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+}
+
+.bottom-part h2 {
+    margin: 0 10px 10px 10px;
+}
+
+.bottom-part h3 {
+    margin: 0;
+    display: inline-block;
+}
+
+.bottom-part p {
+    margin-top: 5px;
+    display:inline-block;
+    width: 250px;
+}
+
+.first-bottom {
+    display: inline-block;
+    width: 340px;
+
+}
+
+
+.second-bottom {
+    display: inline-block;
+    width: 340px;
+
+}
+
+.third-bottom {
+    display: inline-block;
+    width: 340px;
+
+}
+
+
